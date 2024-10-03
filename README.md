@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I love to create, collaborate, and learn new thing
 Here are a few projects I've worked on:
 
 1. **[Discord-Bot](https://github.com/programmernb-ctrl/Discord-Bot)**
-   - **Description:** [This is a simple project i started recently. It should be a discordbot for a friends server]
+   - **Description:** This is a simple project i started recently. It should be a discordbot for a friends server
 
 Feel free to check them out and provide feedback!
 
