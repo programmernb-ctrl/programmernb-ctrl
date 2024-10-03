@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm [programmernb-ctrl]
 
 Welcome to my GitHub profile! I'm a [Your Profession/Title] passionate about [your interests or specialties]. I love to create, collaborate, and learn new things in the world of technology.
 
