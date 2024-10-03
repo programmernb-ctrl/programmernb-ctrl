@@ -1,13 +1,13 @@
-# Hi there! 👋 I'm [programmernb-ctrl]
+# Hi there! 👋 I'm programmernb-ctrl
 
-Welcome to my GitHub profile! I'm a [Your Profession/Title] passionate about [your interests or specialties]. I love to create, collaborate, and learn new things in the world of technology.
+Welcome to my GitHub profile! I love to create, collaborate, and learn new things in the world of technology.
 
 ## 🛠 Skills
 
-- **Languages:** [ C#, JavaScript ]
-- **Frameworks/Libraries:** [Node.js, Express, .NET]
-- **Tools:** [Git, Docker, CMAKE]
-- **Databases:** [MongoDB]
+- **Languages:** C#, JavaScript
+- **Frameworks/Libraries:** Node.js, Express, .NET
+- **Tools:** Git, Docker, CMAKE
+- **Databases:** MongoDB
 
 ## 🌟 Projects
 
@@ -24,10 +24,10 @@ Feel free to check them out and provide feedback!
 
 ## 🌱 I’m Currently Learning
 
-- [ C# and JavaScript]
+- C# and JavaScript
 
 ## 🔗 Fun Facts
 
-- [ Patience is the key]
+- Patience is the key
 
 Thanks for visiting my profile! Let's connect and collaborate! 🚀
