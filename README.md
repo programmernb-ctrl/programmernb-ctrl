@@ -15,6 +15,8 @@ Here are a few projects I've worked on:
 
 1. **[Discord-Bot](https://github.com/programmernb-ctrl/Discord-Bot)**
    - **Description:** This is a simple project i started recently. Once finished it should function as a discord-bot.
+2. **[MC Fabric-Mod](https://github.com/programmernb-ctrl/Fabric-Mod-ReworkedMod)**
+   - **Description:** This is a minecraft mod which aims to add game mechanics, blocks items and more.
 
 Feel free to check them out and provide feedback!
 
