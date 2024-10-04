@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I love to create, collaborate, and learn new thing
 
 ## 🛠 Skills
 
-- **Languages:** C#, JavaScript
-- **Frameworks/Libraries:** Node.js, Express, .NET
+- **Languages:** [C#, Lua, JavaScript]
+- **Frameworks/Libraries:** [.NET, Node.js, Express]
 - **Tools:** Git, Docker, CMAKE
 - **Databases:** MongoDB
 
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I love to create, collaborate, and learn new thing
 Here are a few projects I've worked on:
 
 1. **[Discord-Bot](https://github.com/programmernb-ctrl/Discord-Bot)**
-   - **Description:** This is a simple project i started recently. It should be a discordbot for a friends server
+   - **Description:** This is a simple project i started recently. Once finished it should function as a discord-bot.
 
 Feel free to check them out and provide feedback!
 
