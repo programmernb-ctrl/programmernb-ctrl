@@ -22,7 +22,7 @@ Feel free to check them out and provide feedback!
 
 ## 📫 How to Reach Me
 
-- **Discord:** [ durstignacheiste ]
+- **Discord:** [ durstignacheistee ]
 
 ## 🌱 I’m Currently Learning
 
