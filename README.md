@@ -19,6 +19,8 @@ Here are a few projects I've worked on or contributed:
    - **Description:** This is a minecraft mod which aims to add game mechanics, blocks items and more.
 3. **[Rebar-ATM](https://github.com/dorn3r/rebar-atm)**
    - **Description:** My first contribute | updated webview.
+4. **[Rebar-Adminpanel](https://github.com/programmernb-ctrl/rebar-adminpanel)**
+   - **Description:** My first self written plugin for the rebar framework
 
 Feel free to check them out and provide feedback!
 
