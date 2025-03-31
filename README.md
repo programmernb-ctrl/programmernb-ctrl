@@ -34,8 +34,7 @@ Feel free to check them out and provide feedback or show love by contributing!
 
 ## 📫 How to Reach Me
 
-- **Discord:** durstignacheistee
-- **dev hub on discord:** [click!](https://discord.gg/3FjtbxSMNT) to join
+- **Discord:** [click here to join!](https://discord.gg/Wm8JZnqvp4)
 
 ## 🌱 I’m Currently Learning
 
