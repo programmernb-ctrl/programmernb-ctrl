@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm <ins>programmernb-ctrl<ins>
+# Hi there! 👋 I'm <ins>thirst<ins>
 
-Welcome to **my** GitHub **profile**!<br><br> Things started as a curiosity but now has grown into a *real passion* for **me**, bringing my ideas on the screen always gives me *chills*.<br>**in a positive way**☕
+Welcome, well now you here right. Just read this **short** story very quick. <br><br> I always wanted to be able to develop my own things for e.x a web app but since back there i was a kid i didn't have the chances or wasn't able to get the knowladge, but there was this time where i just thought "Why dont i just try it?" there is a nice german quote for this: "no master has fallen from the clouds" easily said it means that anyone started at some point and needs to learn. And now i'm here... things started as a curiosity but now has grown into a *real passion* for **me**, bringing my ideas on the screen always gives me *chills*.<br>**in a positive way**☕
    <p align="center">
       <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
       <a href="https://www.lua.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/></a>
@@ -22,8 +22,6 @@ Welcome to **my** GitHub **profile**!<br><br> Things started as a curiosity but 
 ---
 
 ### 🌟 Projects
-
-Here are a few projects I'm working on or contributed to:
 
 <ul>
    <li>
@@ -58,19 +56,15 @@ Here are a few projects I'm working on or contributed to:
    </li>
 </ul>
 
-Feel free to check them out and *provide feedback* or show love by *contributing*!
+---
+
+### 🌱 Learning
+Continuously expanding my skillset in modern programming languages to build robust and interactive applications.
 
 ---
 
-### 🌱 I’m Currently Learning
+### 🌐 Reach Out
 
-- C# and JavaScript
-
----
-
-### 🔗 Fun Facts
-
-- Patience is the key
-- We are Revolution 
+- [Revolution Discord](https://discord.gg/Wm8JZnqvp4)
 
 Thanks for visiting my profile! Let's connect and collaborate! 🚀
