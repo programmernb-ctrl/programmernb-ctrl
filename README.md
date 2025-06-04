@@ -25,6 +25,12 @@ Welcome, well now you here right. Just read this **short** story very quick. <br
 
 <ul>
    <li>
+      <a href="https://github.com/programmernb-ctrl/rv_scenes">rv_scenes</a>
+      <ul>
+         <li>This is a utility script which allows you to create, manage synchronised Network Scenes in FiveM.</li>
+      </ul>
+   </li>
+   <li>
       <a href="https://github.com/programmernb-ctrl/rv_gui">rv_gui</a>
       <ul>
          <li>This is a boilerplate I created for building performant user interfaces for FiveM.</li>
