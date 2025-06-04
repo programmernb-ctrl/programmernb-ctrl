@@ -68,3 +68,8 @@ Continuously expanding my skillset in modern programming languages to build robu
 - [Revolution Discord](https://discord.gg/Wm8JZnqvp4)
 
 Thanks for visiting my profile! Let's connect and collaborate! 🚀
+
+---
+<p>Like my work and are able to give something back?</p>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S3171498)
