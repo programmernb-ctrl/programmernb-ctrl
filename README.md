@@ -1,47 +1,22 @@
-<p align="center">
-   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
-   <a href="https://www.lua.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/></a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>
-   <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height=40" /></a>
-   <a href="https://vuejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40" /></a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-   <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-   <a href="https://dotnet.microsoft.com/en-us/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40" /></a>
-   <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" width="40" height="40" /></a>
-   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-   <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-</p>
 
-[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=programmernb-ctrl&hide_border=true&border_radius=4&card_width=800&card_height=150)](https://git.io/streak-stats)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Wm8JZnqvp4) 
 
-### 🌟 Projects
+# 💻 Tech Stack:
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=programmernb-ctrl&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=programmernb-ctrl&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=programmernb-ctrl&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<ul>
-   <li>
-      <a href="https://github.com/programmernb-ctrl/rv_blackmarket">rv_blackmarket</a>
-      <ul>
-         <li>This script allows players to sell or buy certain items on a FiveM Server</li>
-      </ul>
-   </li>
-   <li>
-      <a href="https://github.com/programmernb-ctrl/rv_scenes">rv_scenes</a>
-      <ul>
-         <li>This is a utility script which allows you to create, manage synchronised Network Scenes in FiveM.</li>
-      </ul>
-   </li>
-   <li>
-      <a href="https://github.com/programmernb-ctrl/rv_gui">rv_gui</a>
-      <ul>
-         <li>This is a boilerplate I created for building performant user interfaces for FiveM.</li>
-      </ul>
-   </li>
-</ul>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=programmernb-ctrl&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
-## 📲 [Revolution Discord](https://discord.gg/Wm8JZnqvp4)
-- script announcements
-- resource support
-- stay up-to-date
+---
+[![](https://visitcount.itsvg.in/api?id=programmernb-ctrl&icon=7&color=3)](https://visitcount.itsvg.in)
 
-You can always join the discord server to get any help regarding my projects.
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/thirst_) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
