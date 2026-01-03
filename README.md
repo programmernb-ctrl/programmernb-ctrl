@@ -14,6 +14,8 @@
   <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=programmernb-ctrl&hide_border=true&border_radius=4&card_width=800&card_height=150)](https://git.io/streak-stats)
+
 ### 🌟 Projects
 
 <ul>
@@ -43,5 +45,3 @@
 - stay up-to-date
 
 You can always join the discord server to get any help regarding my projects.
-
-[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=programmernb-ctrl&theme=dark&hide_border=true&border_radius=4&hide_current_streak=true)](https://git.io/streak-stats)
