@@ -9,13 +9,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=programmernb-ctrl&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=programmernb-ctrl&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=programmernb-ctrl&limit=5&theme=merko&combine_all_yearly_contributions=true)
-
 ---
+
 [![](https://visitcount.itsvg.in/api?id=programmernb-ctrl&icon=7&color=3)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You could get me a coffee, in case you like what i do
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/thirst_) 
 
   
